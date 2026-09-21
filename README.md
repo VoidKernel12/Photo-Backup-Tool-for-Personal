@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen?style=for-the-badge&logo=appveyor)
+![Version](https://img.shields.io/badge/Version-2.1.0-brightgreen?style=for-the-badge&logo=appveyor)
 ![Developer](https://img.shields.io/badge/Developer-Void%20Kernel%2012-blue?style=for-the-badge&logo=github)
 ![AI Powered](https://img.shields.io/badge/Powered%20By-Gemini%20AI-orange?style=for-the-badge&logo=google)
 
