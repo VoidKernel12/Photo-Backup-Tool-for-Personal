@@ -31,3 +31,7 @@ python tool.py
 # ​Zero Developer Liability: The developer (Void Kernel 12) holds NO RESPONSIBILITY and assumes ZERO LIABILITY (110% Liability Waiver) for any misuse, illegal file transfers, data leaks, or privacy violations.
 # ​User Accountability: If any hacker or malicious user misuses this tool or leaks files/photos, the entire legal and criminal liability belongs solely to that user/hacker. The developer will never take any responsibility for malicious or illegal actions performed by end-users.
 # ​BY USING THIS SOFTWARE, YOU AGREE THAT YOU ARE USING IT ENTIRELY AT YOUR OWN RISK.
+
+​Photo Backup Tool for Personal — A secure, offline local folder backup utility for Termux and Linux. Developed by Void 
+
+Kernel 12 (Powered by Gemini AI). Features zero server dependency and multi-tier secure packaging
