@@ -10,11 +10,16 @@ A powerful command-line tool designed for secure local file packing, folder back
 Open your terminal and run the following commands one by one:
 
 ```bash
-git clone 
-cd <your-repository-folder-name>
+git clone https://github.com/VoidKernel12/Photo-Backup-Tool-for-Personal.git
+```
+```bash
+cd Photo-Backup-Tool-for-Personal
+```
+```bash
 bash install.sh
+```
+```bash
 python tool.py
-
 ```
  🚀 Features
 ## ​Free & VIP Tiers: Standard and high-speed multi-tier folder packaging with hidden passcode security
