@@ -1,3 +1,8 @@
+![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen?style=for-the-badge&logo=appveyor)
+![Developer](https://img.shields.io/badge/Developer-Void%20Kernel%2012-blue?style=for-the-badge&logo=github)
+![AI Powered](https://img.shields.io/badge/Powered%20By-Gemini%20AI-orange?style=for-the-badge&logo=google)
+
+
 # Secure File Stream Vault
 Developed by **Void Kernel 12** (Powered by Gemini AI)
 
@@ -22,7 +27,7 @@ bash install.sh
 python tool.py
 ```
  🚀 Features
-# ​Free & VIP Tiers: Standard and high-speed multi-tier folder packaging with hidden passcode security
+# Free & VIP Tiers: Standard and high-speed multi-tier folder packaging with hidden passcode security **
 # Zero Server Dependency: Works 100% locally on your device storage without any localhost or external network.
 # ​Restore Files: Easily unpack and restore your encrypted data packs back into folders instantly.
 # ​⚖️ LEGAL DISCLAIMER & LIABILITY WAIVER# ​IMPORTANT: PLEASE READ CAREFULLY BEFORE USING THIS SOFTWARE.
